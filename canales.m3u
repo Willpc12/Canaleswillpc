@@ -20,7 +20,10 @@ https://ok.ru/live/2217092652635
 https://ok.ru/live/2212611432027
 
 #EXTINF:-1  group-title="Lista TV", NOTICIAS CARACOL 
-https://www.youtube.com/watch?v=dwzaDAVLiHg&ab_channel=NoticiasCaracol
+
 
 #EXTINF:-1  group-title="Lista TV", CITY TV
 https://ok.ru/live/2212617330267
+
+#EXTINF:-1  group-title="Lista TV", DISCOVERY CHANNEL
+https://www.twitch.tv/kl_dtt0/
