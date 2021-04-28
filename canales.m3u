@@ -272,7 +272,18 @@ https://www.supertelevisionhd.com/america-television-en-vivo/
 https://www.supertelevisionhd.com/chilevision-en-vivo/
  
 #EXTINF:-1  group-title="Lista TV", TELEMUNDO
-https://www.teleblanca.com/telemundo-en-vivo/
 
 #EXTINF:-1  group-title="Lista TV", UNIVISION
-https://www.twitch.tv/ntt_7744/
+
+
+#EXTINF:-1  group-title="Lista TV", SEÑAL COLOMBIA
+https://www.tvcanaleshd.com/senal-colombia-en-vivo-por-internet/
+ 
+#EXTINF:-1  group-title="Lista TV", CANAL UNO
+https://www.tvcanaleshd.com/canal-uno-hd-colombia-vivo-directo-gratis-internet/
+
+#EXTINF:-1  group-title="Lista TV", TELEPACIFICO
+https://www.tvcanaleshd.com/telepacifico-en-vivo-por-internet/
+
+#EXTINF:-1  group-title="Lista TV", TELEANTIOQUIA
+https://www.tvcanaleshd.com/teleantioquia-en-vivo-por-internet/
