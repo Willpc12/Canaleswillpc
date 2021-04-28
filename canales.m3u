@@ -271,19 +271,20 @@ https://www.supertelevisionhd.com/america-television-en-vivo/
 #EXTINF:-1  group-title="Lista TV", CHILEVISION
 https://www.supertelevisionhd.com/chilevision-en-vivo/
  
-#EXTINF:-1  group-title="Lista TV", TELEMUNDO
+#EXTINF:-1  group-title="Lista TV", ANTENA 3
+https://adictosalatele.com/antena-3-en-directo-online-gratis/
 
-#EXTINF:-1  group-title="Lista TV", UNIVISION
+#EXTINF:-1  group-title="Lista TV", TVE1
+https://adictosalatele.com/tve-1-en-directo-online-gratis/
 
-
-#EXTINF:-1  group-title="Lista TV", SEÑAL COLOMBIA
-https://www.tvcanaleshd.com/senal-colombia-en-vivo-por-internet/
- 
-#EXTINF:-1  group-title="Lista TV", CANAL UNO
-https://www.tvcanaleshd.com/canal-uno-hd-colombia-vivo-directo-gratis-internet/
+#EXTINF:-1  group-title="Lista TV", TVE2
+https://adictosalatele.com/tve-2-en-directo-online-gratis/
 
 #EXTINF:-1  group-title="Lista TV", TELEPACIFICO
 https://www.tvcanaleshd.com/telepacifico-en-vivo-por-internet/
 
 #EXTINF:-1  group-title="Lista TV", TELEANTIOQUIA
 https://www.tvcanaleshd.com/teleantioquia-en-vivo-por-internet/
+ 
+#EXTINF:-1  group-title="Lista TV", LA CUATRO
+https://adictosalatele.com/la-cuatro-en-directo-online-gratis/
