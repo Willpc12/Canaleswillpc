@@ -291,3 +291,9 @@ https://adictosalatele.com/la-cuatro-en-directo-online-gratis/
 
 #EXTINF:-1  group-title="Lista TV", RT
 https://rt-esp-gd.secure2.footprint.net:443/1102_1600Kb.m3u8
+
+#EXTINF:-1  group-title="Lista TV", COLOR VISION
+https://www.tdtchannels.com/television/ColorVisi%C3%B3nRep%C3%BAblicaDominicana
+
+#EXTINF:-1  group-title="Lista TV", MIAMI TV
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
