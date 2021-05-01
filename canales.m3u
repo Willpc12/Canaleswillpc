@@ -16,6 +16,9 @@ https://www.tvcanaleshd.com/rcn-tv-en-vivo-hd-por-internet-directo/
 #EXTINF:-1  group-title="Lista TV", CARACOL TV
 https://adictosaldeporte.com/ver-caracol-tv-en-vivo-24h/
 
+#EXTINF:-1  group-title="Lista TV", CARACOL NOTICIAS
+https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
+
 #EXTINF:-1  group-title="Lista TV", CARACOL INTERNACIONAL
 https://www.supertelevisionhd.com/canal-caracol-en-vivo/
 
@@ -60,6 +63,9 @@ https://adictosalatele.com/canal-tbs-latino-en-vivo-online-gratis/
 
 #EXTINF:-1  group-title="Lista TV", SONY
 https://adictosalatele.com/canal-sony-latino-en-vivo-online-gratis/
+
+#EXTINF:-1  group-title="Lista TV", SONY NOVELAS
+https://sony-novelas-1.roku.wurl.com:443/playlist_640x360_1200k.m3u8
 
 #EXTINF:-1  group-title="Lista TV", PARAMOUNT CHANNEL
 https://adictosalatele.com/paramount-channel-latino-en-vivo-online/
@@ -179,7 +185,7 @@ http://adictosalatele.com/TV/latinos/azteca/
 https://adictosalatele.com/azteca-siete-en-vivo-online-gratis/
 
 #EXTINF:-1  group-title="Lista TV", AZTECA 13
-https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/7tmke.m3u8?s=CHo_GLFhatdOg8eU3bzWcA&e=1619680528
+
 
 #EXTINF:-1  group-title="Lista TV", TELEVISA
 https://adictosalatele.com/canal-5-televisa-en-vivo-online/
@@ -221,7 +227,7 @@ https://adictosaldeporte.com/ver-canal-adrenalina-sports-en-vivo-24h/
 https://adictosalatele.com/cartoon-network-online-en-vivo-gratis/
 
 #EXTINF:-1  group-title="Lista TV", DISNEY CHANNEL
-https://usher.ttvnw.net/api/channel/hls/dn_xxt.m3u8?allow_source=true&bndl=tv.twitch.android.app&dt=1&fast_bread=true&p=1407662&play_session_id=4946db964550ea04dfa85aa8420cfd7b&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=8c32025c4931186fdffab441b3bdcd865e58f7d1&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22dn_xxt%22%2C%22channel_id%22%3A680266359%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22c7d97cbcb5f3ce5d%22%2C%22expires%22%3A1619654987%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22201.211.201.88%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.4.0
+
 
 #EXTINF:-1  group-title="Lista TV", DISNEY JUNIOR
 https://adictosalatele.com/disney-junior-online-en-vivo-gratis/
@@ -272,10 +278,8 @@ https://adictosalatele.com/canal-ae-en-vivo-online-gratis/
 https://adictosalatele.com/animal-planet-latino-en-vivo-online-gratis/
 
 #EXTINF:-1  group-title="Lista TV", AMERICA TELEVISION
-https://www.supertelevisionhd.com/america-television-en-vivo/
+https://americateve-rokuus.amagi.tv:443/masterR404lp.m3u8
 
-#EXTINF:-1  group-title="Lista TV", MEGA TV CHILE
-https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/caatd5.m3u8?s=bHN-1y4mWUeIDdG48vxEMg&e=1619680943
 
 #EXTINF:-1  group-title="Lista TV", CHILEVISION
 https://www.supertelevisionhd.com/chilevision-en-vivo/
@@ -305,23 +309,112 @@ https://rt-esp-gd.secure2.footprint.net:443/1102_1600Kb.m3u8
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
 
 #EXTINF:-1  group-title="Lista TV", UNIVISION
-https://usher.ttvnw.net/api/channel/hls/ntt_7744.m3u8?allow_source=true&bndl=tv.twitch.android.app&dt=1&fast_bread=true&p=4339481&play_session_id=8b8f70f1d2543743e8cd709038bdde7c&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=7b1c190dfb7a496b270273d41af55ed104719472&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22ntt_7744%22%2C%22channel_id%22%3A665284005%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22c7d97cbcb5f3ce5d%22%2C%22expires%22%3A1619650959%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22201.211.201.88%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.4.0
 
-#EXTINF:-1  group-title="Lista TV", TELEMUNDO
-https://usher.ttvnw.net/api/channel/hls/vrt_ii10.m3u8?allow_source=true&bndl=tv.twitch.android.app&dt=1&fast_bread=true&p=6068414&play_session_id=4afc878ddc6c7bd384e3419f50918c4a&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=916b27bc11b44056880da7fcf3a4bcd350410bcc&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22vrt_ii10%22%2C%22channel_id%22%3A680265110%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22c7d97cbcb5f3ce5d%22%2C%22expires%22%3A1619651263%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22201.211.201.88%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.4.0
+
+#EXTINF:-1  group-title="Lista TV", TELEMUNDO 62
+http://wwsilive-lh.akamaihd.net/i/WWSI_LIVE1@183620/master.m3u8
 
 #EXTINF:-1  group-title="Lista TV", ATV PERU
-https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/fjf5b97ntsis.m3u8?s=q1KplMlPV1fDVUH2rNA4Qg&e=1619674850
+
 
 #EXTINF:-1  group-title="Lista TV", LATINA TV
-https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/6d7wkcq.m3u8?s=JaipyAUE2N11rrqZcjrElw&e=1619675721
+
 
 #EXTINF:-1  group-title="Lista TV", PANAMERICANA TELEVISION
-https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/ty60mekzppeaym.m3u8?s=WUC8_12sy7W-z0ht_xdHqA&e=1619681371
+
 
 #EXTINF:-1  group-title="Lista TV", CNN
-https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/tpr5nzjy3d.m3u8?s=Xj4xwA6Wg50zjg_mbOhjlQ&e=1619682294
+
 
 #EXTINF:-1  group-title="Lista TV", MAX PRIME
-https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/xd7rd3.m3u8?s=v8FWhLpmU7HS4FWsz6XwhA&e=1619684186
+
+#EXTINF:-1  group-title="Lista TV", cosmos
+http://91.126.141.201:1935/live/smil:cosmoHD/chunklist_w1929505980_b1328000_sling.m3u8
+
+#EXTINF:-1  group-title="Lista TV", GEN TV
+https://videohd.live:19360/8010/8010.m3u8
+
+#EXTINF:-1  group-title="Lista TV", TELERED COSTA RICA
+http://k4.usastreams.com/ARBtv/teleplus/.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tdcgroup.org/media_library/logos_files/wowtv_logo.png" group-title="Lista TV", WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+
+#EXTINF:-1  group-title="Lista TV", WMS REPUBLICA DOMINICANA
+https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
+
+#EXTINF:-1  group-title="Lista TV", MTV MUSIC
+https://pluto-live.plutotv.net:443/egress/chandler/pluto01/live/VIACBS07/master_750.m3u8
+
+#EXTINF:-1  group-title="Lista TV", VEVO MUSIC
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/6757caebe90a467bae26bbfb7c82e67b/live.m3u8
+
+#EXTINF:-1  group-title="Lista TV", STINGRAY MUSIC
+https://ott-linear-channels.stingray.com:443/190/master_768x432_500kbps.m3u8
+
+#EXTINF:-1  group-title="Lista TV", MIAMI LIVE JENNY
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/.m3u8
+
+#EXTINF:-1  group-title="Lista TV", TV MAX PANAMA
+https://bcovlive-a.akamaihd.net:443/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_2/chunklist_dvr.m3u8
+
+#EXTINF:-1  group-title="Lista TV", TVN
+https://bcovlive-a.akamaihd.net:443/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_2/chunklist_dvr.m3u8
+
+#EXTINF:-1  group-title="Lista TV", DW
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_2_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1  group-title="Lista TV", ESTRELLA TV
+https://estrellatv-roku.amagi.tv:443/playlistR432p.m3u8
+
+#EXTINF:-1  group-title="Lista TV", CGTN CHINA
+https://livees.cgtn.com/500e/prog_index.m3u8
+
+#EXTINF:-1  group-title="Lista TV", ESTRELLA TV
+https://estrellatv-roku.amagi.tv:443/playlistR432p.m3u8
+
+#EXTINF:-1  group-title="Lista TV", ADN 40
+https://dai.google.com/linear/hls/pa/event/XZLLJIhJRNqz33DGp6NdkA/stream/b6948cda-502f-44a6-864e-e90ecb0629d1:BRU/variant/97a11b0719217f7ac6884245eecf81e4/bandwidth/484000.m3u8
+
+#EXTINF:-1  group-title="Lista TV", CANAL 6
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1  group-title="Lista TV", CANAL 6 CDMX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+
+#EXTINF:-1  group-title="Lista TV", TELEMAX
+https://live-edge01.telecentro.net.ar/live/tlx.smil/.m3u8
+
+#EXTINF:-1  group-title="Lista TV", SEÑAL COLOMBIA
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1  group-title="Lista TV", TELEVISION MARTI
+https://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+
+#EXTINF:-1  group-title="Lista TV", DKISS TV
+http://91.126.141.201:1935/live/smil:kiss/.m3u8
+
+#EXTINF:-1  group-title="Lista TV", TV EXTREMA
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1  group-title="Lista TV", CANAL CAPITAL
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+
+#EXTINF:-1  group-title="Lista TV", MUNDO +
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+
+#EXTINF:-1  group-title="Lista TV", GARAJE TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+
+#EXTINF:-1  tvg-logo="http://canalesdominicanosenvivo.com/wp-content/uploads/2013/09/LogoSTV55-Canales-Dominicanos-Online.jpg", group-title="Lista TV", SUPERTV 55
+http://ss8.domint.net:2128/stv_str/tv55/chunklist_w1389944491.m3u8
+
+#EXTINF:-1  group-title="Lista TV", CANAL 4
+http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
+
+#EXTINF:-1  group-title="Lista TV", TELEISLAS
+http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
+
+#EXTINF:-1  group-title="Lista TV", MILENIO TV
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
