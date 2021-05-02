@@ -280,7 +280,6 @@ https://adictosalatele.com/animal-planet-latino-en-vivo-online-gratis/
 #EXTINF:-1  group-title="Lista TV", AMERICA TELEVISION
 https://americateve-rokuus.amagi.tv:443/masterR404lp.m3u8
 
-
 #EXTINF:-1  group-title="Lista TV", CHILEVISION
 https://www.supertelevisionhd.com/chilevision-en-vivo/
  
@@ -418,3 +417,77 @@ http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
 #EXTINF:-1  group-title="Lista TV", MILENIO TV
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.itver.cc/wp-content/uploads/2015/03/Tele-Aruba-Logo.jpg" group-title="Lista TV", TELEARUBA
+http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist_w158123675_b596000_sleng.m3u8
+
+#EXTINF:-1  group-title="Lista TV", PLUTO TV INVESTIGA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=169239c2-aa9f-11eb-9e54-0242ac110002&sid=169239c2-aa9f-11eb-9e54-0242ac110002&userId=
+
+#EXTINF:-1  group-title="Lista TV", PLUTO TV AVENTURA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc266f80e3550009136843/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=751684dc-aaa0-11eb-ac84-0242ac110002&sid=751684dc-aaa0-11eb-ac84-0242ac110002&userId=
+
+#EXTINF:-1  group-title="Lista TV", PLUTO TV HISTORIAS ULTRATUMBA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=751684dc-aaa0-11eb-ac84-0242ac110002&sid=751684dc-aaa0-11eb-ac84-0242ac110002&userId=
+
+#EXTINF:-1  group-title="Lista TV", PLUTO TV CINE ESTELAR
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=685ed2cd-a9ff-11eb-b976-0242ac110002&sid=685ed2cd-a9ff-11eb-b976-0242ac110002&userId=
+
+#EXTINF:-1  group-title="Lista TV", PLUTO TV CINE TERROR
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=a329231e-aaa2-11eb-b43b-0242ac110002&sid=a329231e-aaa2-11eb-b43b-0242ac110002&userId=
+
+#EXTINF:-1  group-title="Lista TV", PLUTO TV CINE COMEDIA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=9ea814c3-aae2-11eb-8d47-0242ac110002&sid=9ea814c3-aae2-11eb-8d47-0242ac110002&userId=
+
+#EXTINF:-1  group-title="Lista TV", PLUTO TV CINE ACCION
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=4179f637-aaa4-11eb-8326-0242ac110002&sid=4179f637-aaa4-11eb-8326-0242ac110002&userId=
+
+#EXTINF:-1  group-title="Lista TV", PLUTO TV REALITY
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde197f6591d0009839e04/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=f9646c3d-aaa5-11eb-8d47-0242ac110002&sid=f9646c3d-aaa5-11eb-8d47-0242ac110002&userId=
+
+#EXTINF:-1  group-title="Lista TV", PLUTO TV PARAMOUT PLUS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=1e16c1d2-aae3-11eb-b4a3-0242ac110002&sid=1e16c1d2-aae3-11eb-b4a3-0242ac110002&userId=
+
+#EXTINF:-1  group-title="Lista TV", PLUTO TV MASTER CHEF
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=1e16c1d2-aae3-11eb-b4a3-0242ac110002&sid=1e16c1d2-aae3-11eb-b4a3-0242ac110002&userId=
+
+#EXTINF:-1  group-title="Lista TV", PLUTO TV VIDA REAL
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df265697ec3510009df1ef0/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=fb16953e-aae3-11eb-91cc-0242ac110002&sid=fb16953e-aae3-11eb-91cc-0242ac110002&userId=
+
+#EXTINF:-1  group-title="Lista TV", PLUTO TV ANIMALES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=a4b2571f-aae4-11eb-8ea1-0242ac110002&sid=a4b2571f-aae4-11eb-8ea1-0242ac110002&userId=
+
+#EXTINF:-1  group-title="Lista TV", PLUTO TV MOTORES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=f743ae26-aae4-11eb-b7bc-0242ac110002&sid=f743ae26-aae4-11eb-b7bc-0242ac110002&userId=
+
+#EXTINF:-1  group-title="Lista TV", PLUTO TV CIENCIA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=7ebd0c18-aae5-11eb-b976-0242ac110002&sid=7ebd0c18-aae5-11eb-b976-0242ac110002&userId=
+
+#EXTINF:-1  group-title="Lista TV", PLUTO TV ARCHIVOS FORENSES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8c19b2678b000780d032/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=ec7bb1e4-aae6-11eb-881a-0242ac110002&sid=ec7bb1e4-aae6-11eb-881a-0242ac110002&userId=
+
+#EXTINF:-1  group-title="Lista TV", PLUTO TV LOS ARCHIVOS DEL FBI
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67d41b93312100076f3fca/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=c7a8b454-aae6-11eb-ab33-0242ac110002&sid=c7a8b454-aae6-11eb-ab33-0242ac110002&userId=
+
+#EXTINF:-1  group-title="Lista TV", PLUTO TV LOS NUEVOS DETECTIVES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=1b183c01-aae7-11eb-87ba-0242ac110002&sid=1b183c01-aae7-11eb-87ba-0242ac110002&userId=
+
+#EXTINF:-1  group-title="Lista TV", PLUTO TV MINUTOS PARA GANAR
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=85165f7e-aae7-11eb-8114-0242ac110002&sid=85165f7e-aae7-11eb-8114-0242ac110002&userId=
+
+#EXTINF:-1  group-title="Lista TV", RETRO TV MUSIC
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1  group-title="Lista TV", CALI TV COLOMBIA
+http://vbox.cehis.net/live-calitv/calitv1/chunklist_w1250337264.m3u8
+
+#EXTINF:-1  group-title="Lista TV", TELE CARIBE COLOMBIA
+https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/496k/index.m3u8
+
+#EXTINF:-1  group-title="Lista TV", LA MEGA MUNDIAL TV 
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/chunklist_w2037832949.m3u8
+ 
+#EXTINF:-1  group-title="Lista TV", TICAVISION COSTA RICA
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+
+#EXTINF:-1  group-title="Lista TV", LATINOS UP TV
+https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8?PlaylistM3UCL
