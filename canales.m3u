@@ -19,7 +19,7 @@ https://adictosaldeporte.com/ver-caracol-tv-en-vivo-24h/
 #EXTINF:-1  group-title="Lista TV", CARACOL NOTICIAS
 https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 
-#EXTINF:-1  group-title="Lista TV", CARACOL INTERNACIONAL
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Caracolintl.jpg/revision/latest/scale-to-width-down/150?cb=20210218132353&path-prefix=es", group-title="Lista TV", CARACOL INTERNACIONAL
 https://www.supertelevisionhd.com/canal-caracol-en-vivo/
 
 #EXTINF:-1  group-title="Lista TV", DISCOVERY CHANNEL
