@@ -1,13 +1,13 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="", group-title="Lista TV", HISTORY ***
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/historylatino.png", group-title="Lista TV", HISTORY ***
 https://adictosalatele.com/TV/latinos/history/
 
 #EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/history2.png", group-title="Lista TV", HISTORY 2 ***
 https://adictosalatele.com/history-2-en-vivo-online-gratis/
 
-#EXTINF:-1 tvg-logo="", group-title="Lista TV", TLC ***
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tlc.png", group-title="Lista TV", TLC ***
 https://adictosalatele.com/ver-discovery-tlc-en-vivo-online-gratis/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_del_canal_rcn.JPG", group-title="Lista TV", RCN 
@@ -15,9 +15,6 @@ https://www.tvcanaleshd.com/rcn-tv-en-vivo-hd-por-internet-directo/
 
 #EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/caracoltv.png", group-title="Lista TV", CARACOL TV (COLOMBIA) ***
 https://adictosaldeporte.com/ver-caracol-tv-en-vivo-24h/
-
-#EXTINF:-1 tvg-logo="https://www.tvcanaleshd.com/wp-content/uploads/2019/09/canal-uno-hd-colombia-1.png", group-title="Lista TV", CANAL UNO (COLOMBIA)
-https://www.tvcanaleshd.com/canal-uno-hd-colombia-vivo-directo-gratis-internet/
 
 #EXTINF:-1 tvg-logo="https://www.tvcanaleshd.com/wp-content/uploads/2018/06/canal-caracol-tv.jpg", group-title="Lista TV", CARACOL TV (COLOMBIA) OP2
 https://www.tvcanaleshd.com/caracol-tv-vivo-en-hd/
@@ -52,7 +49,7 @@ https://adictosalatele.com/discovery-worl-latino-en-vivo-online-gratis/
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/Am%C3%A9rica_TV_2018.png/revision/latest/scale-to-width-down/200?cb=20200123155022&path-prefix=es", group-title="Lista TV", AMERICA TV (ARGENTINA) ***
 https://adictosalatele.com/america-2-tv-en-vivo-online/
 
-#EXTINF:-1 tvg-logo="http://www.bsnfpr.net/wp-content/uploads/2016/07/LOGO-America-Teve-Siempre-Juntos-1-300x230.png", group-title="Lista TV", AMERICA TV (MIAMI) 
+#EXTINF:-1 tvg-logo="https://www.rbr.com/wp-content/uploads/america-teve.jpg", group-title="Lista TV", AMERICA TV (MIAMI) 
 https://americateve-rokuus.amagi.tv:443/masterR404lp.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kKjIqVO-xYA/WothyRlJwgI/AAAAAAAAAZA/CpWb_MXEvskeqraylR25SAO5b9Tndx-WACLcBGAs/s1600/atv.png", group-title="Lista TV", AMERICA TV (PERU) 
@@ -61,19 +58,19 @@ https://www.supertelevisionhd.com/america-television-en-vivo/
 #EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/warner.png", group-title="Lista TV", WARNER CHANNEL ***
 https://adictosalatele.com/canal-warner-en-vivo-online-gratis/
 
-#EXTINF:-1 tvg-logo="", group-title="MUSICA", MTV MUSIC ***
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/125px-MTV_Logo_2010.svg.png", group-title="MUSICA", MTV MUSIC ***
 https://adictosalatele.com/ver-mtv-latino-online-en-vivo-gratis/
 
-#EXTINF:-1 tvg-logo="", group-title="Lista TV", UNIVERSAL CHANNEL ***
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/universalchannel.png", group-title="Lista TV", UNIVERSAL CHANNEL ***
 https://adictosalatele.com/universal-channel-en-vivo-online-gratis/
 
 #EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/studiouniversal.png", group-title="Lista TV", STUDIO UNIVERSAL ***
 https://adictosalatele.com/studio-universal-en-vivo-online-gratis/
 
-#EXTINF:-1 tvg-logo="", group-title="Lista TV", TBS ***
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tbs.png", group-title="Lista TV", TBS ***
 https://adictosalatele.com/canal-tbs-latino-en-vivo-online-gratis/
 
-#EXTINF:-1 tvg-logo="", group-title="Lista TV", SONY ***
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/sony.png", group-title="Lista TV", SONY ***
 https://adictosalatele.com/canal-sony-latino-en-vivo-online-gratis/
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/SonyChannelLA.png/revision/latest/scale-to-width-down/185?cb=20200116232350&path-prefix=es", group-title="Lista TV", SONY NOVELAS
@@ -82,7 +79,7 @@ https://sony-novelas-1.roku.wurl.com:443/playlist_640x360_1200k.m3u8
 #EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/paramountlatino.png", group-title="Lista TV", PARAMOUNT CHANNEL ***
 https://adictosalatele.com/paramount-channel-latino-en-vivo-online/
 
-#EXTINF:-1 tvg-logo="", group-title="Lista TV", COMEDY CENTRAL ***
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/comedycentrallatino.png", group-title="Lista TV", COMEDY CENTRAL ***
 https://adictosalatele.com/comedy-central-latino-en-vivo-online-gratis/
 
 #EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/space.png", group-title="Lista TV", SPACE ***
@@ -94,28 +91,28 @@ https://adictosalatele.com/canal-fx-en-vivo-online-gratis/
 #EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/fxm.png", group-title="Lista TV", FMX ***
 https://adictosalatele.com/canal-fxm-latino-en-vivo-online-gratis/
 
-#EXTINF:-1 tvg-logo="", group-title="Lista TV", SYFY ***
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/syfy.png", group-title="Lista TV", SYFY ***
 https://adictosalatele.com/syfy-latino-en-vivo-online-gratis/
 
-#EXTINF:-1 tvg-logo="", group-title="Lista TV", TMC ***
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tcmlatino.png", group-title="Lista TV", TMC ***
 https://adictosalatele.com/tcm-latino-en-vivo-online-gratis/
 
-#EXTINF:-1 tvg-logo="", group-title="Lista TV", AMC ***
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/amclatino.png", group-title="Lista TV", AMC ***
 https://adictosalatele.com/amc-latino-en-vivo-online-gratis/
 
-#EXTINF:-1 tvg-logo="", group-title="Lista TV", AXN ***
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/axnlatino.png", group-title="Lista TV", AXN ***
 https://adictosalatele.com/axn-latino-en-vivo-online-gratis/
 
 #EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tntseries.png", group-title="Lista TV", TNT SERIE ***
 https://adictosalatele.com/tnt-series-latino-en-vivo-online-gratis/
 
-#EXTINF:-1 tvg-logo="", group-title="Lista TV", TNT ***
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tntlatino.png", group-title="Lista TV", TNT ***
 https://adictosalatele.com/tnt-latino-en-vivo-online-gratis/
 
 #EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/cinecanal.png", group-title="Lista TV", CINECANAL ***
 https://adictosalatele.com/ver-cinecanal-en-vivo-gratis/
 
-#EXTINF:-1 tvg-logo="", group-title="Lista TV", CINEMAX ***
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/cinemax.png", group-title="Lista TV", CINEMAX ***
 https://adictosalatele.com/cinemax-en-vivo-online-gratis/
 
 #EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/goldenedge.png", group-title="Lista TV", GOLDEN EDGE ***
@@ -151,7 +148,7 @@ https://adictosalatele.com/max-latino-en-vivo-online-gratis/
 #EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbopop.png", group-title="Lista TV", HBO POP ***
 https://adictosalatele.com/max-up-latino-en-vivo-online-gratis/
 
-#EXTINF:-1 tvg-logo="", group-title="Lista TV", FOX ***
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/foxlatino.png", group-title="Lista TV", FOX ***
 https://adictosalatele.com/fox-latino-en-vivo-online-gratis/
 
 #EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/foxaction.png", group-title="Lista TV", FOX ACTION ***
@@ -166,16 +163,16 @@ https://adictosalatele.com/fox-family-en-vivo-online-gratis/
 #EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/foxcinema.png", group-title="Lista TV", FOX CINEMA ***
 https://adictosalatele.com/fox-cinema-en-vivo-online-gratis/
 
-#EXTINF:-1 tvg-logo="", group-title="Lista TV", FOX COMEDY ***
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/foxcomedy.png", group-title="Lista TV", FOX COMEDY ***
 https://adictosalatele.com/fox-comedy-en-vivo-online-gratis/
 
 #EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/foxclassics.png", group-title="Lista TV", FOX CLASSICS ***
 https://adictosalatele.com/fox-classics-en-vivo-online-gratis/
 
-#EXTINF:-1 tvg-logo="", group-title="Lista TV", FOX MOVIES ***
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/foxmovies.png", group-title="Lista TV", FOX MOVIES ***
 https://adictosalatele.com/fox-movies-en-vivo-online-gratis/
 
-#EXTINF:-1 tvg-logo="", group-title="Lista TV", FOX LIFE ***
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/foxlifelatino.png", group-title="Lista TV", FOX LIFE ***
 https://adictosalatele.com/fox-life-latino-en-vivo-online-gratis/
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/Fox_Premium_2018.svg/revision/latest/scale-to-width-down/198?cb=20200628170014&path-prefix=es", group-title="Lista TV", FOX PREMIUM ***
@@ -208,7 +205,7 @@ https://adictosalatele.com/canal-5-televisa-en-vivo-online/
 #EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/canal26.png", group-title="Lista TV", CANAL26 (ARGENTINA) ***
 https://adictosalatele.com/canal-26-en-vivo-online/
 
-#EXTINF:-1 tvg-logo="", group-title="DEPORTES", FOX SPORTS ***
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/foxsports2mx.png", group-title="DEPORTES", FOX SPORTS ***
 https://adictosaldeporte.com/ver-fox-sports-premium-en-vivo-24h/ 
 
 #EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/foxsports1mx.png", group-title="DEPORTES", FOX SPORTS MX ***
@@ -247,22 +244,22 @@ https://adictosaldeporte.com/ver-tudn-en-vivo-24h/
 #EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/beinlatino.png", group-title="DEPORTES", BEIN SPORTS
 https://adictosaldeporte.com/ver-bein-sports-en-vivo-online/
 
-#EXTINF:-1 tvg-logo="", group-title="INFANTILES", CARTOON NETWORK ***
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/cartoonnetwork.png", group-title="INFANTILES", CARTOON NETWORK ***
 https://adictosalatele.com/cartoon-network-online-en-vivo-gratis/
 
 #EXTINF:-1 tvg-logo="", group-title="Lista TV", DISNEY CHANNEL
 
 
-#EXTINF:-1 tvg-logo="", group-title="INFANTILES", DISNEY JUNIOR ***
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/disneyjunior.png", group-title="INFANTILES", DISNEY JUNIOR ***
 https://adictosalatele.com/disney-junior-online-en-vivo-gratis/
 
 #EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoverykids.png", group-title="INFANTILES", DISCOVERY KIDS ***
 https://adictosalatele.com/discovery-kids-online-en-vivo-gratis/
 
-#EXTINF:-1  group-title="INFANTILES", DISNEY XD ***
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/disneyxd.png", group-title="INFANTILES", DISNEY XD ***
 https://adictosalatele.com/disney-xd-online-en-vivo-gratis/
 
-#EXTINF:-1 tvg-logo="", group-title="INFANTILES", NICKELODEON ***
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/nick.png", group-title="INFANTILES", NICKELODEON ***
 https://adictosalatele.com/nick-online-en-vivo-gratis/
 
 #EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/nicktoons.png", group-title="MUSICA", NICK MUSIC ***
@@ -274,7 +271,7 @@ https://adictosalatele.com/babyfirst-online-en-vivo-gratis/
 #EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tooncast.png", group-title="INFANTILES", TOONCAST ***
 https://adictosalatele.com/tooncast-online-en-vivo-gratis/
 
-#EXTINF:-1 tvg-logo="", group-title="INFANTILES", BOOMERANG ***
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/boomerang.png", group-title="INFANTILES", BOOMERANG ***
 https://adictosalatele.com/boomerang-online-en-vivo-gratis/
 
 #EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/kidstv.png", group-title="INFANTILES", KIDS TV
@@ -289,16 +286,16 @@ https://adictosalatele.com/canal-cocina-en-directo-online-gratis/
 #EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/historia.png", group-title="Lista TV", HISTORY (ESPAÑA) ***
 https://adictosalatele.com/history-en-directo-online-gratis/
 
-#EXTINF:-1 tvg-logo="", group-title="Lista TV", NATIONAL GEOGRAPHIC ***
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/nationalgeographiclatino.png", group-title="Lista TV", NATIONAL GEOGRAPHIC ***
 https://adictosalatele.com/national-geographic-latino-en-vivo-online-gratis/
 
-#EXTINF:-1 tvg-logo="", group-title="Lista TV", NATIONAL GEOGRAPHIC WILD ***
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/natgeowilllatino.png", group-title="Lista TV", NATIONAL GEOGRAPHIC WILD ***
 https://adictosalatele.com/national-geographic-will-latino-en-vivo-online-gratis/
 
-#EXTINF:-1 tvg-logo="", group-title="Lista TV", A&E ***
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/ae.png", group-title="Lista TV", A&E ***
 https://adictosalatele.com/canal-ae-en-vivo-online-gratis/
 
-#EXTINF:-1 tvg-logo="", group-title="Lista TV", ANIMAL PLANET ***
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/animalplanet.png", group-title="Lista TV", ANIMAL PLANET ***
 https://adictosalatele.com/animal-planet-latino-en-vivo-online-gratis/
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QINtNzZCTfs/Woth2SBxOPI/AAAAAAAAAZQ/vY7g3JFiz14l_gAw_eR8kMpelnufs_9sQCLcBGAs/s1600/chilevision.png", group-title="Lista TV", CHILEVISION (CHILE)
@@ -518,5 +515,4 @@ http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/3b40f2856b1b2e61df66a1efafbc1ae449a5c266faed826fdc0561d79ac60fe5.png", group-title="MUSICA", LATINOS UP TV  (MIAMI)
 https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8?PlaylistM3UCL
-
 
