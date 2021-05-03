@@ -19,7 +19,7 @@ https://adictosaldeporte.com/ver-caracol-tv-en-vivo-24h/
 #EXTINF:-1 tvg-logo="https://www.tvcanaleshd.com/wp-content/uploads/2018/06/canal-caracol-tv.jpg", group-title="Lista TV", CARACOL TV (COLOMBIA) OP2
 https://www.tvcanaleshd.com/caracol-tv-vivo-en-hd/
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Noticias_Caracol_2012.jpg/revision/latest/scale-to-width-down/200?cb=20200209024009&path-prefix=es", group-title="Lista TV", CARACOL NOTICIAS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Noticias_Caracol_2017.svg/revision/latest/scale-to-width-down/200?cb=20200209024421&path-prefix=es", group-title="Lista TV", CARACOL NOTICIAS
 https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Caracolintl.jpg/revision/latest/scale-to-width-down/150?cb=20210218132353&path-prefix=es", group-title="Lista TV", CARACOL INTERNACIONAL
@@ -516,3 +516,5 @@ http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/3b40f2856b1b2e61df66a1efafbc1ae449a5c266faed826fdc0561d79ac60fe5.png", group-title="MUSICA", LATINOS UP TV  (MIAMI)
 https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/canal0.png", group-title="Lista TV", CANAL #0 (ESPAÑA) *** 
+https://adictosalatele.com/canal-0-plus-en-directo-online-gratis/
