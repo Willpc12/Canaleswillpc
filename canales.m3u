@@ -337,8 +337,8 @@ https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b
 #EXTINF:-1 tvg-logo="", group-title="Lista TV", PANAMERICANA TELEVISION
 
 
-#EXTINF:-1 tvg-logo="", group-title="Lista TV", CNN
-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/301f06c166156f3e5234ee0b6231b9a0.png", group-title="DEPORTES", REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/245px-Atrescine_logo.svg.png", group-title="Lista TV", A3 CINE  (ESPAÑA)
 https://live.atresmediainternacional.com:443/ATRESMEDIA/a3cine-480.m3u8
@@ -349,7 +349,8 @@ https://siloh-ns1.plutotv.net:443/lilo/production/Nuestravision/master_4.m3u8
 #EXTINF:-1 tvg-logo="https://centrocomercialhollywood.com/wp-content/uploads/2019/07/Logo-Planet-Kids-300x300.png", group-title="INFANTILES", PLANETA KIDS (ESPAÑA)
 https://deaplaneta-planetakidz-1-es.samsung.wurl.com:443/manifest/1200.m3u8
 
-#EXTINF:-1 tvg-logo="", group-title="Lista TV", MAX PRIME
+#EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C4D03AQF3BvidKPLR3w/profile-displayphoto-shrink_200_200/0/1570859284406?e=1625702400&v=beta&t=ZllK4TuMc3MhKio30bLYM_0uaOnLzhgJONViqqtHHLo", group-title="Lista TV", BHTV (PERU)
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lapublicidad.net/wp-content/uploads/2017/06/Logo-Cosmo.jpg", group-title="Lista TV", COSMOS (ESPAÑA)
 http://91.126.141.201:1935/live/smil:cosmoHD/chunklist_w1929505980_b1328000_sling.m3u8
@@ -393,7 +394,8 @@ https://estrellatv-roku.amagi.tv:443/playlistR432p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/CGTN-America_Logo.png/250px-CGTN-America_Logo.png", group-title="Lista TV", CGTN (CHINA)
 https://livees.cgtn.com/500e/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="", group-title="Lista TV", ADN 40
+#EXTINF:-1 tvg-logo="https://vivotvhd.com/img/cha/2556.gif", group-title="MUSICA", VISUAL RADIO TV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online-218x150.png", group-title="Lista TV", CANAL 6  (MEXICO)
@@ -408,7 +410,7 @@ https://live-edge01.telecentro.net.ar/live/tlx.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/senal-colombia-logo.png", group-title="Lista TV", SEÑAL COLOMBIA (COLOMBIA)
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-SjHk5gt2MQc/TWDwSqtDENI/AAAAAAAACjA/DYoOlAEqzRk/s1600/tvmarti.jpg, group-title="Lista TV", TELEVISION MARTI  (MIAMI)
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-SjHk5gt2MQc/TWDwSqtDENI/AAAAAAAACjA/DYoOlAEqzRk/s1600/tvmarti.jpg, group-title="Lista TV", TV MARTI  (MIAMI)
 https://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/250px-DKISS_2019_logo.svg.png", group-title="Lista TV", DKISS TV  (ESPAÑA)
@@ -435,8 +437,8 @@ http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logrospublicitarios.com/wp-content/uploads/2020/03/Teleislas.png", group-title="Lista TV", TELEISLAS (COLOMBIA)
 http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", group-title="Lista TV", MILENIO TV 
-
+#EXTINF:-1 tvg-logo="https://www.diario26.com/images/musictop_logo.png?3", group-title="MUSICA", MUSIC TOP 
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1582140541_b364000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.itver.cc/wp-content/uploads/2015/03/Tele-Aruba-Logo.jpg", group-title="Lista TV", TELEARUBA
 http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist_w158123675_b596000_sleng.m3u8
@@ -542,6 +544,20 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2f53449c50009
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="Lista TV", ESTRELLAS DE ACCION PLUTOTV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=d70c256e-ac3f-11eb-a2fe-0242ac110002&sid=d70c256e-ac3f-11eb-a2fe-0242ac110002&userId=
+
+#EXTINF:-1 tvg-logo="https://sergiomatina.com/wp-content/uploads/2018/11/m2o-radio.jpg", group-title="MUSICA" RADIO m2O
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chile.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
 
 
