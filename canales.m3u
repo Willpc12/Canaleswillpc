@@ -247,9 +247,6 @@ https://adictosaldeporte.com/ver-bein-sports-en-vivo-online/
 #EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/cartoonnetwork.png", group-title="INFANTILES", CARTOON NETWORK ***
 https://adictosalatele.com/cartoon-network-online-en-vivo-gratis/
 
-#EXTINF:-1 tvg-logo="", group-title="Lista TV", DISNEY CHANNEL
-
-
 #EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/disneyjunior.png", group-title="INFANTILES", DISNEY JUNIOR ***
 https://adictosalatele.com/disney-junior-online-en-vivo-gratis/
 
@@ -304,10 +301,13 @@ https://www.supertelevisionhd.com/chilevision-en-vivo/
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Antena_3_2017.svg/revision/latest/scale-to-width-down/200?cb=20200307025520&path-prefix=es", group-title="Lista TV", ANTENA 3  (ESPAÑA) ***
 https://adictosalatele.com/antena-3-en-directo-online-gratis/
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Tve_fondo_borroso.jpg/revision/latest/scale-to-width-down/185?cb=20201220145146&path-prefix=es", group-title="Lista TV", TVE1  (ESPAÑA) ***
+#EXTINF:-1 tvg-logo="https://static.plenummedia.com/35737/images/20160824192406-bodegas-la-aurora-en-tve-web.jpg?dh=MzIweDI1MA%3D%3D&m=resize", group-title="Lista TV", TVE1  (ESPAÑA) ***
 https://adictosalatele.com/tve-1-en-directo-online-gratis/
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Tve_fondo_borroso.jpg/revision/latest/scale-to-width-down/185?cb=20201220145146&path-prefix=es", group-title="Lista TV", TVE2  (ESPAÑA) ***
+#EXTINF:-1 tvg-logo="https://static.plenummedia.com/35737/images/20160824192406-bodegas-la-aurora-en-tve-web.jpg?dh=MzIweDI1MA%3D%3D&m=resize", group-title="Lista TV", TVE1  (ESPAÑA)
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sergiobarce.files.wordpress.com/2011/08/tve_la2_.jpg", group-title="Lista TV", TVE2  (ESPAÑA) ***
 https://adictosalatele.com/tve-2-en-directo-online-gratis/
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Telepac%C3%ADfico2019.png/revision/latest/scale-to-width-down/200?cb=20210213133514&path-prefix=es", group-title="Lista TV", TELEPACIFICO (COLOMBIA)
@@ -324,18 +324,6 @@ https://rt-esp-gd.secure2.footprint.net:443/1102_1600Kb.m3u8
  
 #EXTINF:-1 tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv-300x141.png", group-title="Lista TV", MIAMI TV
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
-
-#EXTINF:-1 tvg-logo="", group-title="Lista TV", UNIVISION
-
-
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-RANxlmCcfZA/WotiV23xrVI/AAAAAAAAAao/e5QwHVmzjoA6C4ws7wc2oQt5NcHq6r9vwCLcBGAs/s1600/telemundo.png", group-title="Lista TV", TELEMUNDO 62  (MIAMI)
-
-
-#EXTINF:-1 tvg-logo="", group-title="Lista TV", LATINA TV
-
-
-#EXTINF:-1 tvg-logo="", group-title="Lista TV", PANAMERICANA TELEVISION
-
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/301f06c166156f3e5234ee0b6231b9a0.png", group-title="DEPORTES", REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
@@ -548,13 +536,14 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d0007
 #EXTINF:-1 tvg-logo="https://sergiomatina.com/wp-content/uploads/2018/11/m2o-radio.jpg", group-title="MUSICA", RADIO m2O
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chile.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kady79t.jpg" group-title="",UAO Play (COLOMBIA)
+https://live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-1500/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eg47wmv.jpg" group-title="",TELEVID (COLOMBIA)
+https://api.new.livestream.com/accounts/28238881/events/8574038/live.m3u8
 
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6d2fOjq.png" group-title="", SURAM (COLOMBIA)
+https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8
 
 
 
