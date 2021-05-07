@@ -28,7 +28,7 @@ https://adictosalatele.com/discovery-science-latino-en-vivo-online-gratis/
 #EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/invdiscovery.png", group-title="Lista TV", DISCOVERY ID
 https://adictosalatele.com/investigacion-discovery-latino-en-vivo-online-gratis/
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoveryhh.png", group-title="Lista TV", DISCOVERY HOME & HEALTH
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoveryhh.png", group-title="Lista TV", DISCOVERY H&H
 https://adictosalatele.com/discovery-hh-latino-en-vivo-online-gratis/
 
 #EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoveryworl.png", group-title="Lista TV", DISCOVERY WORLD 
@@ -296,7 +296,7 @@ https://adictosaldeporte.com/ver-fox-premium-action-en-vivo-24h/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_del_canal_rcn.JPG", group-title="COLOMBIA", RCN 
 https://www.tvcanaleshd.com/rcn-tv-en-vivo-hd-por-internet-directo/
 
-#EXTINF:-1 tvg-logo="https://www.tvcanaleshd.com/wp-content/uploads/2018/06/canal-caracol-tv.jpg", group-title="COLOMBIA", CARACOLTV
+#EXTINF:-1 tvg-logo="https://www.tvcanaleshd.com/wp-content/uploads/2018/06/canal-caracol-tv.jpg", group-title="COLOMBIA", CARACOL TV
 https://www.tvcanaleshd.com/caracol-tv-vivo-en-hd/
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Telepac%C3%ADfico2019.png/revision/latest/scale-to-width-down/200?cb=20210213133514&path-prefix=es", group-title="COLOMBIA", TELEPACIFICO 
@@ -323,7 +323,7 @@ https://www.tvcanaleshd.com/telepacifico-en-vivo-por-internet/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_del_canal_rcn.JPG", group-title="COLOMBIA", RCN 2
 https://cdn.chatytvgratis.net/rcntabs.php?width=640&heigth=360
 
-#EXTINF:-1 tvg-logo="https://www.tvcanaleshd.com/wp-content/uploads/2018/06/canal-caracol-tv.jpg", group-title="COLOMBIA", CARACOLTV
+#EXTINF:-1 tvg-logo="https://www.tvcanaleshd.com/wp-content/uploads/2018/06/canal-caracol-tv.jpg", group-title="COLOMBIA", CARACOL TV
 https://cdn.chatytvgratis.net/caracoltabs.php?width=640&heigth=360
 
 #EXTINF:-1 tvg-logo="https://www.tvcanaleshd.com/wp-content/uploads/2019/09/canal-uno-hd-colombia-1.png", group-title="COLOMBIA", CANAL UNO
@@ -568,7 +568,7 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lapublicidad.net/wp-content/uploads/2017/06/Logo-Cosmo.jpg", group-title="ESPAÑA", COSMOS 
 http://91.126.141.201:1935/live/smil:cosmoHD/chunklist_w1929505980_b1328000_sling.m3u8
 
-#EXTINF:-1 tvg-logo="https://diarioanticipos.com/wp-content/uploads/2020/04/Gen-TV-Foto-Anticipos.jpg", group-title="Lista TV", GEN TV (URUGUAY)
+#EXTINF:-1 tvg-logo="https://diarioanticipos.com/wp-content/uploads/2020/04/Gen-TV-Foto-Anticipos.jpg", group-title="URUGUAY", GEN TV
 https://videohd.live:19360/8010/8010.m3u8
 
 #EXTINF:-1 tvg-logo="http://teleredtelevision.com/wp-content/uploads/2020/08/106414576_2667104786876196_7086919220868530256_n-300x300.jpg", group-title="COSTA RICA", TELERED 
