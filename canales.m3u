@@ -1,294 +1,291 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/america2.png", group-title="PREMIUM", AMERICA TV*
-https://adictosalatele.com/america-2-tv-en-vivo-online/
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/canal26.png", group-title="PREMIUM", CANAL26
-https://adictosalatele.com/canal-26-en-vivo-online/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/eltrece.png", group-title="PREMIUM", EL TRECE
+https://telefullenvivo.com/ver-canal-eltrece-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/caracoltv.png", group-title="PREMIUM", CARACOL TV
-https://adictosalatele.com/caracol-tv-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/america2.png", group-title="PREMIUM", AMERICA TV*
+https://telefullenvivo.com/ver-canal-america-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/canalestrellas.png", group-title="PREMIUM", CANAL DE LAS ESTRELLAS
-https://adictosalatele.com/canal-de-las-estrellas-en-vivo-online/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/canal26.png", group-title="PREMIUM", CANAL26
+https://telefullenvivo.com/ver-canal-26-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/aztecamundo.png", group-title="PREMIUM", AZTECA MUNDO
-https://adictosalatele.com/azteca-mundo-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/caracoltv.png", group-title="PREMIUM", CARACOL TV
+https://telefullenvivo.com/ver-canal-caracoltv-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/azteca.png", group-title="PREMIUM", AZTECA
-https://adictosalatele.com/TV/latinos/azteca/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/canalestrellas.png", group-title="PREMIUM", CANAL DE LAS ESTRELLAS
+https://telefullenvivo.com/ver-canal-las-estrellas-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/azteca7.png", group-title="PREMIUM", AZTECA 7
-https://adictosalatele.com/azteca-siete-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/azteca.png", group-title="PREMIUM", AZTECA
+https://telefullenvivo.com/ver-canal-azteca-uno-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/aztecacinema.png", group-title="PREMIUM", AZTECA CINEMA
-https://adictosalatele.com/azteca-cinema-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/azteca7.png", group-title="PREMIUM", AZTECA 7
+https://telefullenvivo.com/ver-canal-azteca-siete-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/eltrece.png", group-title="PREMIUM", EL TRECE
-https://adictosalatele.com/el-trece-argentina-en-vivo-online/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/telenovelas.png", group-title="PREMIUM", TVNOVELAS
+https://telefullenvivo.com/ver-canal-tlenovelas-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/televisabajio.png", group-title="PREMIUM", TELEVISA 
-https://adictosalatele.com/canal-5-televisa-en-vivo-online/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/mtvlatino.png", group-title="PREMIUM", MTV MUSIC
+https://telefullenvivo.com/ver-canal-mtv-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/telenovelas.png", group-title="PREMIUM", TVNOVELAS
-https://adictosalatele.com/telenovelas-en-vivo-online/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/star-channel.png", group-title="PREMIUM", FOX
+https://telefullenvivo.com/ver-canal-star-channel-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/mtvlatino.png", group-title="PREMIUM", MTV MUSIC
-https://adictosalatele.com/ver-mtv-latino-online-en-vivo-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/star-action.png", group-title="PREMIUM", FOX ACTION
+https://telefullenvivo.com/ver-canal-star-action-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/golden.png", group-title="PREMIUM", GOLDEN
-https://adictosalatele.com/canal-golden-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/star-series.png", group-title="PREMIUM", FOX SERIES
+https://telefullenvivo.com/ver-canal-star-series-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/foxlatino.png", group-title="PREMIUM", FOX
-https://adictosalatele.com/fox-latino-en-vivo-online-gratis/
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/foxaction.png", group-title="PREMIUM", FOX ACTION
-https://adictosalatele.com/fox-action-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/star-fun.png", group-title="PREMIUM", FOX FUN 
+https://telefullenvivo.com/ver-canal-star-fun-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/foxseries.png", group-title="PREMIUM", FOX SERIES
-https://adictosalatele.com/fox-series-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/star-cinema.png", group-title="PREMIUM", FOX CINEMA
+https://telefullenvivo.com/ver-canal-star-cinema-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/foxfamily.png", group-title="PREMIUM", FOX FAMILY 
-https://adictosalatele.com/fox-family-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/star-comedy.png", group-title="PREMIUM", FOX COMEDY
+https://telefullenvivo.com/ver-canal-star-comedy-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/foxcinema.png", group-title="PREMIUM", FOX CINEMA
-https://adictosalatele.com/fox-cinema-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/star-classics.png", group-title="PREMIUM", FOX CLASSICS
+https://telefullenvivo.com/ver-canal-star-clasics-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/foxcomedy.png", group-title="PREMIUM", FOX COMEDY
-https://adictosalatele.com/fox-comedy-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/star-hits.png", group-title="PREMIUM", FOX HITS
+https://telefullenvivo.com/ver-canal-star-hits-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/foxclassics.png", group-title="PREMIUM", FOX CLASSICS
-https://adictosalatele.com/fox-classics-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/star-life.png", group-title="PREMIUM", FOX LIFE
+https://telefullenvivo.com/ver-canal-star-life-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/foxmovies.png", group-title="PREMIUM", FOX MOVIES
-https://adictosalatele.com/fox-movies-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/hbo.png", group-title="PREMIUM", HBO
+https://telefullenvivo.com/ver-canal-hbo-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/foxlifelatino.png", group-title="PREMIUM", FOX LIFE
-https://adictosalatele.com/fox-life-latino-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/hbo2.png", group-title="PREMIUM", HBO2
+https://telefullenvivo.com/ver-canal-hbo-2-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbo.png", group-title="PREMIUM", HBO
-https://adictosalatele.com/hbo-latino-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/hboplus.png", group-title="PREMIUM", HBO PLUS
+https://telefullenvivo.com/ver-canal-hbo-plus-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbo2.png", group-title="PREMIUM", HBO2
-https://adictosalatele.com/hbo-2-latino-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/hbofamily.png", group-title="PREMIUM", HBO FAMILY
+https://telefullenvivo.com/ver-canal-hbo-family-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hboplus.png", group-title="PREMIUM", HBO PLUS
-https://adictosalatele.com/hbo-plus-latino-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/hbosignature.png", group-title="PREMIUM", HBO SIGNATURE
+https://telefullenvivo.com/ver-canal-hbo-signature-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbofamily.png", group-title="PREMIUM", HBO FAMILY
-https://adictosalatele.com/hbo-family-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/hboxtreme.png", group-title="PREMIUM", HBO XTREME
+https://telefullenvivo.com/ver-canal-hbo-xtreme-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbosignature.png", group-title="PREMIUM", HBO SIGNATURE
-https://adictosalatele.com/hbo-signature-latino-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/hbomundi.png", group-title="PREMIUM", HBO MUNDI
+https://telefullenvivo.com/ver-canal-hbo-mundi-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hboxtreme.png", group-title="PREMIUM", HBO XTREME
-https://adictosalatele.com/max-prime-latino-en-vivo-online-gratis/
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbomundi.png", group-title="PREMIUM", HBO MUNDI
-https://adictosalatele.com/max-latino-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/hbopop.png", group-title="PREMIUM", HBO POP
+https://telefullenvivo.com/ver-canal-hbo-pop-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbopop.png", group-title="PREMIUM", HBO POP
-https://adictosalatele.com/max-up-latino-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/golden.png", group-title="PREMIUM", GOLDEN
+https://telefullenvivo.com/ver-canal-golden-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/goldenedge.png", group-title="PREMIUM", GOLDEN EDGE
-https://adictosalatele.com/golden-edge-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/goldenplus.png", group-title="PREMIUM", GOLDEN PLUS
+https://telefullenvivo.com/ver-canal-golden-plus-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/goldenplus.png", group-title="PREMIUM", GOLDEN PLUS
-https://adictosalatele.com/canal-golden-plus-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/goldenedge.png", group-title="PREMIUM", GOLDEN EDGE
+https://telefullenvivo.com/ver-canal-golden-edge-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/cinemax.png", group-title="PREMIUM", CINEMAX
-https://adictosalatele.com/cinemax-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/cinemax.png", group-title="PREMIUM", CINEMAX
+https://telefullenvivo.com/ver-canal-cinemax-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/cinecanal.png", group-title="PREMIUM", CINECANAL
-https://adictosalatele.com/ver-cinecanal-en-vivo-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/cinecanal.png", group-title="PREMIUM", CINECANAL
+https://telefullenvivo.com/ver-canal-cinecanal-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tntlatino.png", group-title="PREMIUM", TNT
-https://adictosalatele.com/tnt-latino-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/tntlatino.png", group-title="PREMIUM", TNT
+https://telefullenvivo.com/ver-canal-tnt-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tntseries.png", group-title="PREMIUM", TNT SERIES
-https://adictosalatele.com/tnt-series-latino-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/tntseries.png", group-title="PREMIUM", TNT SERIES
+https://telefullenvivo.com/ver-canal-tnt-series-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/axnlatino.png", group-title="PREMIUM", AXN
-https://adictosalatele.com/axn-latino-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/axnlatino.png", group-title="PREMIUM", AXN
+https://telefullenvivo.com/ver-canal-axn-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/sony.png", group-title="PREMIUM", SONY
-https://adictosalatele.com/canal-sony-latino-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/amclatino.png", group-title="PREMIUM", AMC
+https://telefullenvivo.com/ver-canal-amc-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/paramountlatino.png", group-title="PREMIUM", PARAMOUNT CHANNEL
-https://adictosalatele.com/paramount-channel-latino-en-vivo-online/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/tcmlatino.png", group-title="PREMIUM", TMC
+https://telefullenvivo.com/ver-canal-tcm-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/comedycentrallatino.png", group-title="PREMIUM", COMEDY CENTRAL
-https://adictosalatele.com/comedy-central-latino-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/syfy.png", group-title="PREMIUM", SYFY
+https://telefullenvivo.com/ver-canal-syfy-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/space.png", group-title="PREMIUM", SPACE
-https://adictosalatele.com/canal-space-latino-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/fxm.png", group-title="PREMIUM", FMX
+https://telefullenvivo.com/ver-canal-fxm-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/fx.png", group-title="PREMIUM", FX
-https://adictosalatele.com/canal-fx-en-vivo-online-gratis/
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/fxm.png", group-title="PREMIUM", FMX
-https://adictosalatele.com/canal-fxm-latino-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/fx.png", group-title="PREMIUM", FX
+https://telefullenvivo.com/ver-canal-fx-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/syfy.png", group-title="PREMIUM", SYFY
-https://adictosalatele.com/syfy-latino-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/space.png", group-title="PREMIUM", SPACE
+https://telefullenvivo.com/ver-canal-space-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tcmlatino.png", group-title="PREMIUM", TMC
-https://adictosalatele.com/tcm-latino-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/comedycentrallatino.png", group-title="PREMIUM", COMEDY CENTRAL
+https://telefullenvivo.com/ver-canal-comedy-central-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/amclatino.png", group-title="PREMIUM", AMC
-https://adictosalatele.com/amc-latino-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/paramountlatino.png", group-title="PREMIUM", PARAMOUNT CHANNEL
+https://telefullenvivo.com/ver-canal-paramount-channel-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/historylatino.png", group-title="PREMIUM", HISTORY
-https://adictosalatele.com/TV/latinos/history/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/sony.png", group-title="PREMIUM", SONY
+https://telefullenvivo.com/ver-canal-sony-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/history2.png", group-title="PREMIUM", HISTORY 2
-https://adictosalatele.com/history-2-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/tbs.png", group-title="PREMIUM", TBS
+https://telefullenvivo.com/ver-canal-tbs-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tlc.png", group-title="PREMIUM", TLC
-https://adictosalatele.com/ver-discovery-tlc-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/studiouniversal.png", group-title="PREMIUM", STUDIO UNIVERSAL
+https://telefullenvivo.com/ver-canal-studio-universal-en-vivo-online
 
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/universalchannel.png", group-title="PREMIUM", UNIVERSAL CHANNEL 
+https://telefullenvivo.com/ver-canal-universal-channel-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoverychannellatino.png", group-title="PREMIUM", DISCOVERY CHANNEL
-https://adictosalatele.com/discovery-channel-latino-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/warner.png", group-title="PREMIUM", WARNER CHANNEL
+https://telefullenvivo.com/ver-canal-warner-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoveryturbo.png", group-title="PREMIUM", DISCOVERY TURBO
-https://adictosalatele.com/discovery-turbo-latino-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/cartoonnetwork.png", group-title="INFANTILES", CARTOON NETWORK
+https://telefullenvivo.com/ver-canal-cartoon-network-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoverytheater.png", group-title="PREMIUM", DISCOVERY THEATER
-https://adictosalatele.com/discovery-theater-latino-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/natgeokids.png", group-title="INFANTILES", NAT GEO KIDS
+https://telefullenvivo.com/ver-canal-natgeo-kids-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoverysci.png", group-title="PREMIUM", DISCOVERY SCIENCE
-https://adictosalatele.com/discovery-science-latino-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/disneyjunior.png", group-title="INFANTILES", DISNEY JUNIOR
+https://telefullenvivo.com/ver-canal-disney-junior-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/invdiscovery.png", group-title="PREMIUM", DISCOVERY ID
-https://adictosalatele.com/investigacion-discovery-latino-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/disneyxd.png", group-title="INFANTILES", DISNEY XD
+https://telefullenvivo.com/ver-canal-disney-xd-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoveryhh.png", group-title="PREMIUM", DISCOVERY H&H
-https://adictosalatele.com/discovery-hh-latino-en-vivo-online-gratis/
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoveryworl.png", group-title="PREMIUM", DISCOVERY WORLD 
-https://adictosalatele.com/discovery-worl-latino-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/nick.png", group-title="INFANTILES", NICKELODEON
+https://telefullenvivo.com/ver-canal-nick-en-vivo-online
 
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/nickmusic.png", group-title="PREMIUM", NICK MUSIC
+https://telefullenvivo.com/ver-canal-nickmusic-en-vivo-online
 
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/babyfirst.png", group-title="INFANTILES", BABYFIRST
+https://telefullenvivo.com/ver-canal-babyfirst-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/warner.png", group-title="PREMIUM", WARNER CHANNEL
-https://adictosalatele.com/canal-warner-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/tooncast.png", group-title="INFANTILES", TOONCAST
+https://telefullenvivo.com/ver-canal-tooncast-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/universalchannel.png", group-title="PREMIUM", UNIVERSAL CHANNEL 
-https://adictosalatele.com/universal-channel-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/boomerang.png", group-title="INFANTILES", BOOMERANG
+https://telefullenvivo.com/ver-canal-boomerang-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/studiouniversal.png", group-title="PREMIUM", STUDIO UNIVERSAL
-https://adictosalatele.com/studio-universal-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/dmax.png", group-title="PREMIUM", DISCOVERY MAX ESPAÑA
+https://telefullenvivo.com/ver-canal-discovery-max-online-en-directo
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tbs.png", group-title="PREMIUM", TBS
-https://adictosalatele.com/canal-tbs-latino-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/historia.png", group-title="PREMIUM", HISTORIA ESPAÑA
+https://telefullenvivo.com/ver-canal-historia-online-en-directo
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/cartoonnetwork.png", group-title="INFANTILES", CARTOON NETWORK
-https://adictosalatele.com/cartoon-network-online-en-vivo-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/cocina.png", group-title="PREMIUM", CANAL COCINA
+https://telefullenvivo.com/ver-canal-cocina-online-en-directo
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/disneyjunior.png", group-title="INFANTILES", DISNEY JUNIOR
-https://adictosalatele.com/disney-junior-online-en-vivo-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/discoverychannel.png", group-title="PREMIUM", DISCOVERY CHANNEL
+https://telefullenvivo.com/ver-canal-discovery-channel-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoverykids.png", group-title="INFANTILES", DISCOVERY KIDS
-https://adictosalatele.com/discovery-kids-online-en-vivo-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/tlc.png", group-title="PREMIUM", TLC
+https://telefullenvivo.com/ver-canal-discovery-tlc-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/disneyxd.png", group-title="INFANTILES", DISNEY XD
-https://adictosalatele.com/disney-xd-online-en-vivo-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/discoveryturbo.png", group-title="PREMIUM", DISCOVERY TURBO
+https://telefullenvivo.com/ver-canal-discovery-turbo-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/nick.png", group-title="INFANTILES", NICKELODEON
-https://adictosalatele.com/nick-online-en-vivo-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/discoverytheater.png", group-title="PREMIUM", DISCOVERY THEATER
+https://telefullenvivo.com/ver-canal-discovery-theater-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/nicktoons.png", group-title="PREMIUM", NICK MUSIC
-https://adictosalatele.com/nicktoons-online-en-vivo-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/discoverysci.png", group-title="PREMIUM", DISCOVERY SCIENCE
+https://telefullenvivo.com/ver-canal-discovery-science-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/babyfirst.png", group-title="INFANTILES", BABYFIRST
-https://adictosalatele.com/babyfirst-online-en-vivo-gratis/
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tooncast.png", group-title="INFANTILES", TOONCAST
-https://adictosalatele.com/tooncast-online-en-vivo-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/invdiscovery.png", group-title="PREMIUM", DISCOVERY ID
+https://telefullenvivo.com/ver-canal-discovery-investigacion-en-vivo-online
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/canal0.png", group-title="PREMIUM", CANAL #0 
-https://adictosalatele.com/canal-0-plus-en-directo-online-gratis/
- 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/la4.png", group-title="PREMIUM", LA CUATRO
-https://adictosalatele.com/la-cuatro-en-directo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/discoveryhh.png", group-title="PREMIUM", DISCOVERY H&H
+https://telefullenvivo.com/ver-canal-discovery-h&h-en-vivo-online
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/discoveryworl.png", group-title="PREMIUM", DISCOVERY WORLD 
+https://telefullenvivo.com/ver-canal-discovery-world-en-vivo-online
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/hgtv.png", group-title="PREMIUM", HGTV
+https://telefullenvivo.com/ver-canal-discovery-hgtv-en-vivo-online
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/historylatino.png", group-title="PREMIUM", HISTORY
+https://telefullenvivo.com/ver-canal-history-en-vivo-online
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/history2.png", group-title="PREMIUM", HISTORY 2
+https://telefullenvivo.com/ver-canal-history-2-en-vivo-online
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/nationalgeographiclatino.png", group-title="PREMIUM", NATIONAL GEOGRAPHIC
+https://telefullenvivo.com/ver-canal-national-geographic-en-vivo-online
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/natgeowilllatino.png", group-title="PREMIUM", NAT GEO WILD
+https://telefullenvivo.com/ver-canal-national-geographic-will-en-vivo-online
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/ae.png", group-title="PREMIUM", A&E
+https://telefullenvivo.com/ver-canal-a&e-en-vivo-online
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/animalplanet.png", group-title="PREMIUM", ANIMAL PLANET
+https://telefullenvivo.com/ver-canal-animal-planet-en-vivo-online
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/secret-story.png", group-title="PREMIUM", SECRET STORY ESPAÑA
+https://telefullenvivo.com/ver-canal-secret-story-24h-online-en-directo
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/la1.png", group-title="PREMIUM", TVE1
+https://telefullenvivo.com/ver-canal-la-1-tve1-online-en-directo
 
 #EXTINF:-1 tvg-logo="https://sergiobarce.files.wordpress.com/2011/08/tve_la2_.jpg", group-title="PREMIUM", TVE2
 https://adictosalatele.com/tve-2-en-directo-online-gratis/
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/dmax.png", group-title="PREMIUM", DISCOVERY MAX
-https://adictosalatele.com/discovery-max-en-directo-online-gratis/
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/cocina.png", group-title="PREMIUM", CANAL COCINA
-https://adictosalatele.com/canal-cocina-en-directo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/la3.png", group-title="PREMIUM", ANTENA 3
+https://telefullenvivo.com/ver-canal-antena-3-online-en-directo
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/historia.png", group-title="PREMIUM", HISTORY
-https://adictosalatele.com/history-en-directo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/la4.png", group-title="PREMIUM", LA CUATRO
+https://telefullenvivo.com/ver-canal-la-cuatro-online-en-directo
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/nationalgeographiclatino.png", group-title="PREMIUM", NATIONAL GEOGRAPHIC
-https://adictosalatele.com/national-geographic-latino-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/canal0.png", group-title="PREMIUM", CANAL #0 
+https://telefullenvivo.com/ver-canal-0-online-en-directo
+ 
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/foxsportsmx.png", group-title="DEPORTES", FOX SPORTS
+https://futbolfullenvivo.com/ver-channel-fox-sports-mx-en-vivo
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/natgeowilllatino.png", group-title="PREMIUM", NAT GEO WILD
-https://adictosalatele.com/national-geographic-will-latino-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/foxsports2mx.png", group-title="DEPORTES", FOX SPORTS MX
+https://futbolfullenvivo.com/ver-channel-fox-sports-2-mx-en-vivo
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/ae.png", group-title="PREMIUM", A&E
-https://adictosalatele.com/canal-ae-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/foxsports3mx.png", group-title="DEPORTES", FOX SPORTS 3
+https://futbolfullenvivo.com/ver-channel-fox-sports-3-mx-en-vivo
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/animalplanet.png", group-title="PREMIUM", ANIMAL PLANET
-https://adictosalatele.com/animal-planet-latino-en-vivo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/espnmx.png", group-title="DEPORTES", ESPN
+https://futbolfullenvivo.com/ver-channel-espn-mx-en-vivo
 
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/espn2mx.png", group-title="DEPORTES", ESPN 2
+https://futbolfullenvivo.com/ver-channel-espn-2-mx-en-vivo
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/boomerang.png", group-title="INFANTILES", BOOMERANG
-https://adictosalatele.com/boomerang-online-en-vivo-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/espn3mx.png", group-title="DEPORTES", ESPN 3
+https://futbolfullenvivo.com/ver-channel-espn-3-mx-en-vivo
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/la3.png", group-title="PREMIUM", ANTENA 3
-https://adictosalatele.com/antena-3-en-directo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/fox-sports-premium.png", group-title="DEPORTES", FOX SPORTS PREMIUM
+https://futbolfullenvivo.com/ver-channel-fox-sports-premium-en-vivo
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/la1.png", group-title="PREMIUM", TVE1
-https://adictosalatele.com/tve-1-en-directo-online-gratis/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/formula1.png", group-title="DEPORTES", FORMULA 1
+https://futbolfullenvivo.com/ver-channel-formula-1-online-en-directo
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/foxsports2mx.png", group-title="DEPORTES", FOX SPORTS
-https://adictosaldeporte.xyz/ver-fox-sports-mx-en-vivo-24h/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/adrenalinatv.png", group-title="DEPORTES", ADRENALINA SPORTS
+https://futbolfullenvivo.com/ver-channel-adrenalina-sports-en-vivo
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/foxsports1mx.png", group-title="DEPORTES", FOX SPORTS MX
-https://adictosaldeporte.xyz/ver-fox-sports-mx-en-vivo-24h/
-
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/foxsports3mx.png", group-title="DEPORTES", FOX SPORTS 3
-https://adictosaldeporte.xyz/ver-fox-sports-3-mx-en-vivo-24h/
-
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/espnmx.png", group-title="DEPORTES", ESPN
-https://adictosaldeporte.xyz/ver-espn-mx-en-vivo-24h/
-
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/espn2mx.png", group-title="DEPORTES", ESPN 2
-https://adictosaldeporte.xyz/ver-espn-2-mx-en-vivo-24h/
-
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/espn3mx.png", group-title="DEPORTES", ESPN 3
-https://adictosaldeporte.xyz/ver-espn-3-mx-en-vivo-24h/
-
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/espnmasmx.png", group-title="DEPORTES", ESPN PLUS
-https://adictosaldeporte.xyz/ver-espn-plus-en-vivo-24h-2/
-
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/fox-sports-premium1.png", group-title="DEPORTES", FOX SPORTS PREMIUM
-https://adictosaldeporte.xyz/ver-fox-sports-premium-en-vivo-24h/
-
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/formula1.png", group-title="DEPORTES", FORMULA 1
-https://adictosaldeporte.xyz/ver-la-formula-1-online-y-en-directo-gratis-24h/
-
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/adrenalinatv.png", group-title="DEPORTES", ADRENALINA SPORTS
-https://adictosaldeporte.xyz/ver-canal-adrenalina-sports-en-vivo-24h/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/tntsports.png", group-title="DEPORTES", TNT SPORTS
+https://futbolfullenvivo.com/ver-channel-tnt-sports-en-vivo
 
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tntsports.png", group-title="DEPORTES", TNT SPORTS
-https://adictosaldeporte.xyz/ver-tnt-sports-en-vivo/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/tudn.png", group-title="DEPORTES", TUDN SPORTS
+https://futbolfullenvivo.com/ver-channel-tudn-en-vivo
 
-#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/tudn.png", group-title="DEPORTES", TUDN SPORTS
-https://adictosaldeporte.xyz/ver-tudn-en-vivo-24h/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/beinlatino.png", group-title="DEPORTES", BEIN SPORTS
+https://futbolfullenvivo.com/ver-channel-bein-sports-en-vivo
 
-#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/beinlatino.png", group-title="DEPORTES", BEIN SPORTS
-https://adictosaldeporte.xyz/ver-bein-sports-en-vivo-online/
-
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-hits.png", group-title="PREMIUM", FOX PREMIUM
-https://adictosaldeporte.xyz/ver-fox-premium-action-en-vivo-24h/
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/star-action.png", group-title="PREMIUM", FOX PREMIUM
+https://futbolfullenvivo.com/ver-channel-star-action-en-vivo
 
 
 
@@ -341,7 +338,6 @@ https://www.supertelevisionhd.com/home-and-health-en-vivo/
 
 #EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/animalplanet.png", group-title="PREMIUM", ANIMAL PLANET 
 https://www.supertelevisionhd.com/animal-planet-en-vivo/
-
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-9mRYT89f1Ck/WotiQGW1TTI/AAAAAAAAAaM/O9jxCS8ZeEA4dQ11N_NTB4JZOvLAg0aCgCLcBGAs/s1600/history-channel.png", group-title="PREMIUM", HISTORY
 https://www.supertelevisionhd.com/history-channel-en-vivo/
@@ -408,7 +404,6 @@ https://www.supertelevisionhd.com/cinemax-en-vivo/
 
 #EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/disneyjunior.png", group-title="INFANTILES", DISNEY JR
 https://www.supertelevisionhd.com/disney-junior-en-vivo/
-
 
 #EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tooncast.png", group-title="INFANTILES", TOONCAST
 https://www.supertelevisionhd.com/tooncast-en-vivo-online/
