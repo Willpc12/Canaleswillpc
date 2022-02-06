@@ -204,6 +204,8 @@ https://telefullenvivo.com/ver-canal-discovery-investigacion-en-vivo-online
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/discoveryhh.png", group-title="PREMIUM", DISCOVERY H&H
 https://telefullenvivo.com/ver-canal-discovery-h&h-en-vivo-online
 
+
+
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/discoveryworl.png", group-title="PREMIUM", DISCOVERY WORLD 
 https://telefullenvivo.com/ver-canal-discovery-world-en-vivo-online
 
@@ -271,12 +273,18 @@ https://futbolfullenvivo.com/ver-channel-fox-sports-premium-en-vivo
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/formula1.png", group-title="DEPORTES", FORMULA 1
 https://futbolfullenvivo.com/ver-channel-formula-1-online-en-directo
 
+#EXTINF:-1 tvg-logo="https://futbolfullenvivo.com/logos/motogp.png", group-title="DEPORTES", MOTOGP
+https://futbolfullenvivo.com/ver-channel-motogp-online-en-directo/
+
+#EXTINF:-1 tvg-logo="https://futbolfullenvivo.com/logos/dazn1.png", group-title="DEPORTES", DAZN 1
+https://futbolfullenvivo.com/ver-channel-dazn-1-online-en-directo/
+
+
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/adrenalinatv.png", group-title="DEPORTES", ADRENALINA SPORTS
 https://futbolfullenvivo.com/ver-channel-adrenalina-sports-en-vivo
 
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/tntsports.png", group-title="DEPORTES", TNT SPORTS
 https://futbolfullenvivo.com/ver-channel-tnt-sports-en-vivo
-
 
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/tudn.png", group-title="DEPORTES", TUDN SPORTS
 https://futbolfullenvivo.com/ver-channel-tudn-en-vivo
@@ -287,7 +295,7 @@ https://futbolfullenvivo.com/ver-channel-bein-sports-en-vivo
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/star-action.png", group-title="PREMIUM", FOX PREMIUM
 https://futbolfullenvivo.com/ver-channel-star-action-en-vivo
 
-
+________________________________________________
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_del_canal_rcn.JPG", group-title="PREMIUM", RCN 
@@ -295,8 +303,6 @@ https://www.tvcanaleshd.com/rcn-tv-en-vivo-hd-por-internet-directo/
 
 #EXTINF:-1 tvg-logo="https://www.tvcanaleshd.com/wp-content/uploads/2018/06/canal-caracol-tv.jpg", group-title="PREMIUM", CARACOL TV
 https://www.tvcanaleshd.com/caracol-tv-vivo-en-hd/
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_del_canal_rcn.JPG", group-title="PREMIUM", RCN 2
 https://cdn.chatytvgratis.net/rcntabs.php?width=640&heigth=360
