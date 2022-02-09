@@ -249,39 +249,35 @@ https://telefullenvivo.com/ver-canal-la-cuatro-online-en-directo
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/canal0.png", group-title="PREMIUM", CANAL #0 
 https://telefullenvivo.com/ver-canal-0-online-en-directo
  
-#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/foxsportsmx.png", group-title="DEPORTES", FOX SPORTS
-https://futbolfullenvivo.com/ver-channel-fox-sports-mx-en-vivo
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/foxsportsmx.png", group-title="DEPORTES", FOX SPORTS 1
+https://futbolfullenvivo.com/ver-channel-fox-sports-en-vivo
 
-#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/foxsports2mx.png", group-title="DEPORTES", FOX SPORTS MX
-https://futbolfullenvivo.com/ver-channel-fox-sports-2-mx-en-vivo
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/foxsports2mx.png", group-title="DEPORTES", FOX SPORTS 2
+https://futbolfullenvivo.com/ver-channel-fox-sports-2-en-vivo
 
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/foxsports3mx.png", group-title="DEPORTES", FOX SPORTS 3
-https://futbolfullenvivo.com/ver-channel-fox-sports-3-mx-en-vivo
+https://futbolfullenvivo.com/ver-channel-fox-sports-3-en-vivo/
 
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/espnmx.png", group-title="DEPORTES", ESPN
-https://futbolfullenvivo.com/ver-channel-espn-mx-en-vivo
+https://futbolfullenvivo.com/ver-channel-espn-en-vivo/
 
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/espn2mx.png", group-title="DEPORTES", ESPN 2
-https://futbolfullenvivo.com/ver-channel-espn-2-mx-en-vivo
+https://futbolfullenvivo.com/ver-channel-espn-2-en-vivo
 
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/espn3mx.png", group-title="DEPORTES", ESPN 3
-https://futbolfullenvivo.com/ver-channel-espn-3-mx-en-vivo
+https://futbolfullenvivo.com/ver-channel-espn-3-en-vivo
 
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/fox-sports-premium.png", group-title="DEPORTES", FOX SPORTS PREMIUM
-https://futbolfullenvivo.com/ver-channel-fox-sports-premium-en-vivo
+https://futbolfullenvivo.com/ver-channel-fox-sports-premium-en-vivo/
 
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/formula1.png", group-title="DEPORTES", FORMULA 1
-https://futbolfullenvivo.com/ver-channel-formula-1-online-en-directo
+https://futbolfullenvivo.com/ver-channel-formula-1-online-en-directo/
 
 #EXTINF:-1 tvg-logo="https://futbolfullenvivo.com/logos/motogp.png", group-title="DEPORTES", MOTOGP
 https://futbolfullenvivo.com/ver-channel-motogp-online-en-directo/
 
 #EXTINF:-1 tvg-logo="https://futbolfullenvivo.com/logos/dazn1.png", group-title="DEPORTES", DAZN 1
 https://futbolfullenvivo.com/ver-channel-dazn-1-online-en-directo/
-
-
-#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/adrenalinatv.png", group-title="DEPORTES", ADRENALINA SPORTS
-https://futbolfullenvivo.com/ver-channel-adrenalina-sports-en-vivo
 
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/tntsports.png", group-title="DEPORTES", TNT SPORTS
 https://futbolfullenvivo.com/ver-channel-tnt-sports-en-vivo
